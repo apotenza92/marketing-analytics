@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+ipython
+scipy
+tabulate
+openpyxl
+statsmodels
+p2j
+seaborn
+jinja2
